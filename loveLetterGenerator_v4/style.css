@@ -1,0 +1,65 @@
+body{
+    background-image: url(Images/Love_Tile.png);
+    background-color: #ff00cd;
+    background-size: 100px 100px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+form{
+    margin:1% 4%;
+    /* margin: -11pt 97pt; */
+    background-color: white;
+    text-align:center;
+    border-radius: 20pt;
+} 
+
+.input_Field_1{
+    width: 45%;
+    border-radius: 20px;
+}
+
+.input_Field_2{
+    
+    background-image:url(Images/Note\ Paper.jpg);
+    background-size: 100% 100%;
+    width: 90%;
+    margin:4%;
+    height: 265px;
+    padding: 3px;
+    border-style: none;
+    border-radius: 1pt;
+    background-position: top;
+
+    resize: none;
+    overflow: auto;
+    word-wrap: break-word;
+    font-family: 'Marck Script', cursive;
+}   
+
+.button{
+    background-color: #fe33ff;
+    border-style: none;
+    border-radius : 50%;
+    margin-bottom: 12pt;
+    cursor:pointer;
+    font-weight: bold;
+    color: white;
+    padding: 5pt 5pt;
+}
+
+H1{
+    margin: 1%;
+    font-size:191%;
+    text-align: center;
+    text-shadow: 5px 4px 3px #000000;
+    -webkit-text-stroke-width: 0.002pt;
+    -webkit-text-stroke-color: white;
+    
+    
+}
+
+H2{
+    font-size: 12pt;
+    -webkit-text-stroke-width: 0px;
+    text-shadow: 2px 3px 5px #fe33ff;
+}
